@@ -12,7 +12,7 @@ public class MainJogoDaVelha {
 		JFrame f = new JFrame();
 		
 		f.add(p);
-		f.setSize(w+10,h+40);
+		f.setSize(w+13,h+38);
 		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		f.setVisible(true);
 		
